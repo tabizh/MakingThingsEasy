@@ -1,3 +1,5 @@
+#** Created By Tabizh to save you time :) **
+
 #!/bin/bash
 
 # Step 1: List files and current date
